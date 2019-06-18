@@ -2,8 +2,8 @@
 
 ## İçerikler / Contents
 ### [Türkçe Tanıtım](#Türkçe-Tanıtım)
-#### [Program Amacı ve Tanıtımı](#Program-Amacı-ve-Tanıtımı)
-#### [Program Kullanımı](#Program-Kullanımı)
+ * [Program Amacı ve Tanıtımı](#Program-Amacı-ve-Tanıtımı)
+ * [Program Kullanımı](#Program-Kullanımı)
 ### [English Promotion](#English-Promotion)
 ### [Kullanılan Teknolojiler / Used Technologies](#Kullanılan-Teknolojiler)
 ---
