@@ -1,0 +1,12 @@
+C:\Users\ismet\source\repos\Dictionary\Dictionary.Entity\bin\Debug\Dictionary.Entity.dll
+C:\Users\ismet\source\repos\Dictionary\Dictionary.Entity\bin\Debug\Dictionary.Entity.pdb
+C:\Users\ismet\source\repos\Dictionary\Dictionary.Entity\obj\Debug\Dictionary.Entity.csprojAssemblyReference.cache
+C:\Users\ismet\source\repos\Dictionary\Dictionary.Entity\obj\Debug\Dictionary.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ismet\source\repos\Dictionary\Dictionary.Entity\obj\Debug\Dictionary.Entity.dll
+C:\Users\ismet\source\repos\Dictionary\Dictionary.Entity\obj\Debug\Dictionary.Entity.pdb
+C:\Users\ismet\Desktop\Dictionary\Dictionary.Entity\bin\Debug\Dictionary.Entity.dll
+C:\Users\ismet\Desktop\Dictionary\Dictionary.Entity\bin\Debug\Dictionary.Entity.pdb
+C:\Users\ismet\Desktop\Dictionary\Dictionary.Entity\obj\Debug\Dictionary.Entity.csprojAssemblyReference.cache
+C:\Users\ismet\Desktop\Dictionary\Dictionary.Entity\obj\Debug\Dictionary.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ismet\Desktop\Dictionary\Dictionary.Entity\obj\Debug\Dictionary.Entity.dll
+C:\Users\ismet\Desktop\Dictionary\Dictionary.Entity\obj\Debug\Dictionary.Entity.pdb
