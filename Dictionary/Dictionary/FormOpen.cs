@@ -14,6 +14,8 @@ namespace Dictionary
                     _instanceWordList = new WordList();
                     _instanceWordList.Dock = DockStyle.Fill;
                 }
+                else
+                    _instanceWordList.GridFill();
                 return _instanceWordList;
             }
         }
@@ -23,11 +25,13 @@ namespace Dictionary
         {
             get
             {
-                if(_instanceYearsStatistic == null)
+                if (_instanceYearsStatistic == null)
                 {
                     _instanceYearsStatistic = new YearsStatistic();
                     _instanceYearsStatistic.Dock = DockStyle.Fill;
                 }
+                else
+                    _instanceYearsStatistic.LoadDrop();
                 return _instanceYearsStatistic;
             }
         }

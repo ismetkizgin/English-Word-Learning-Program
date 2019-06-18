@@ -51,6 +51,8 @@ namespace Dictionary
         {
             if (!formContainer.Controls.Contains(FormOpen.InstanceYearsStatistic))
                 formContainer.Controls.Add(FormOpen.InstanceYearsStatistic);
+            else
+                FormOpen.InstanceYearsStatistic.Refresh();
             FormOpen.InstanceYearsStatistic.BringToFront();
         }
     }

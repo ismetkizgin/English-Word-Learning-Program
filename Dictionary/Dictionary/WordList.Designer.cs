@@ -35,6 +35,7 @@
             this.seçiliKelimeyiGüncelleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.seçiliKelimeyiSilToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.yenileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
@@ -56,11 +57,12 @@
             // 
             this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.yenileToolStripMenuItem,
             this.kelimeEkleToolStripMenuItem,
             this.seçiliKelimeyiGüncelleToolStripMenuItem,
             this.seçiliKelimeyiSilToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(236, 76);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(236, 128);
             // 
             // kelimeEkleToolStripMenuItem
             // 
@@ -94,6 +96,13 @@
             this.gridView1.OptionsView.ShowAutoFilterRow = true;
             this.gridView1.OptionsView.ShowGroupPanel = false;
             // 
+            // yenileToolStripMenuItem
+            // 
+            this.yenileToolStripMenuItem.Name = "yenileToolStripMenuItem";
+            this.yenileToolStripMenuItem.Size = new System.Drawing.Size(235, 24);
+            this.yenileToolStripMenuItem.Text = "Yenile";
+            this.yenileToolStripMenuItem.Click += new System.EventHandler(this.YenileToolStripMenuItem_Click);
+            // 
             // WordList
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
@@ -117,5 +126,6 @@
         private System.Windows.Forms.ToolStripMenuItem kelimeEkleToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem seçiliKelimeyiGüncelleToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem seçiliKelimeyiSilToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem yenileToolStripMenuItem;
     }
 }

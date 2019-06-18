@@ -50,5 +50,11 @@ namespace Dictionary.BL.Concrete
         {
             _learningWordDal.Update(learningWord);
         }
+
+        public void DeleteWordId(int id)
+        {
+            LearningWord learningWord = _learningWordDal.Get(x => x.WordId == id);
+            _learningWordDal.Delete(learningWord);
+        }
     }
 }

@@ -42,8 +42,9 @@ namespace Dictionary
             chartControl1.Series.Clear();
             chartControl1.Series.Add(series1);
         }
-        void LoadDrop()
+        public void LoadDrop()
         {
+            drpYears.Items.Clear();
             LearningWord learningWord =
                 _learningWordSevice.GetAll().OrderByDescending(x => x.LearningDate).FirstOrDefault();
             if (learningWord != null)

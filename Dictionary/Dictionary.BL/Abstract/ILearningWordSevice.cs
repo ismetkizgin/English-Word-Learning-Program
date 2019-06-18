@@ -12,5 +12,6 @@ namespace Dictionary.BL.Abstract
         void Add(LearningWord learningWord);
         void Delete(LearningWord learningWord);
         void Update(LearningWord learningWord);
+        void DeleteWordId(int id);
     }
 }

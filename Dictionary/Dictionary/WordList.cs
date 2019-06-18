@@ -8,11 +8,13 @@ namespace Dictionary
     public partial class WordList : DevExpress.XtraEditors.XtraUserControl
     {
         private readonly IWordService _wordService;
+        private readonly ILearningWordSevice _learningWordSevice;
         private Word _word;
         public WordList()
         {
             InitializeComponent();
             _wordService = InstanceFactory.GetInstance<IWordService>();
+            _learningWordSevice = InstanceFactory.GetInstance<ILearningWordSevice>();
         }
         void WordFill()
         {
@@ -24,7 +26,7 @@ namespace Dictionary
                 Sentence = gridView1.GetFocusedRowCellValue("Sentence").ToString()
             };
         }
-        void GridFill()
+        public void GridFill()
         {
             gridControl1.DataSource = _wordService.GetAll();
             gridView1.Columns.ColumnByFieldName("Id").Visible = false;
@@ -43,6 +45,7 @@ namespace Dictionary
         {
             WordFill();
             _wordService.Delete(_word);
+            _learningWordSevice.DeleteWordId(_word.Id);
             GridFill();
         }
 
@@ -53,6 +56,11 @@ namespace Dictionary
         }
 
         private void WordList_Load(object sender, EventArgs e)
+        {
+            GridFill();
+        }
+
+        private void YenileToolStripMenuItem_Click(object sender, EventArgs e)
         {
             GridFill();
         }

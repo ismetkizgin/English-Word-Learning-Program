@@ -26,3 +26,17 @@ C:\Users\ismet\Desktop\Dictionary\Dictionary.DAL\obj\Debug\Dictionary.DAL.csproj
 C:\Users\ismet\Desktop\Dictionary\Dictionary.DAL\obj\Debug\Dictionary.DAL.csproj.CopyComplete
 C:\Users\ismet\Desktop\Dictionary\Dictionary.DAL\obj\Debug\Dictionary.DAL.dll
 C:\Users\ismet\Desktop\Dictionary\Dictionary.DAL\obj\Debug\Dictionary.DAL.pdb
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\bin\Debug\Dictionary.DAL.dll.config
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\bin\Debug\Dictionary.DAL.dll
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\bin\Debug\Dictionary.DAL.pdb
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\bin\Debug\Dictionary.Entity.dll
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\bin\Debug\Dictionary.Entity.pdb
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\obj\Debug\Dictionary.DAL.csprojAssemblyReference.cache
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\obj\Debug\Dictionary.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\obj\Debug\Dictionary.DAL.csproj.CopyComplete
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\obj\Debug\Dictionary.DAL.dll
+C:\Users\ismet\Desktop\github\Dictionary\Dictionary.DAL\obj\Debug\Dictionary.DAL.pdb
