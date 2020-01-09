@@ -7,7 +7,7 @@
 ### [English Promotion](#English-Promotion)
  * [Objectives and Introduction of the Program](#Objectives-and-Introduction-of-the-Program)
  * [Program Usage](#Program-Usage)
-### [Kullanılan Teknolojiler / Used Technologies](#Kullanılan-Teknolojiler-/-Used-Technologies)
+### [Kullanılan Teknolojiler / Used Technologies](#Teknoloji)
 
 ---
 ## Türkçe Tanıtım [](#){name=Türkçe-Tanıtım}
@@ -56,7 +56,7 @@ The words in the program are presented to the user in a random way and learned. 
 The program allows the user to check the words on the test screen when the time comes. If the user correctly answers the word, the word is transferred to the next stage. If the user incorrectly answers the word, the word is added to the `Words to Learn`.
 
 ---
-## Kullanılan Teknolojiler / Used Technologies
+## Kullanılan Teknolojiler / Used Technologies [](#){name=Teknoloji}
 * C# 7.0
 * Devexpress v19.1.3
 * msSQL
