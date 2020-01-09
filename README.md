@@ -10,7 +10,7 @@
 ### [Kullanılan Teknolojiler / Used Technologies](#Kullanılan-Teknolojiler-/-Used-Technologies)
 
 ---
-## Türkçe Tanıtım
+## Türkçe Tanıtım [](#){name=Türkçe-Tanıtım}
 ### Program Amacı ve Tanıtımı
 Proje ingilizce kelime öğrenmek isteyen kullanıcalara yönelik hazırlanmıştır. Kelimelerin ingilizcesini örnekler üzerinden gösterek öğretir. Öğrenilen kelimeleri belirli zaman aralıklarında tekrar sorularak hatırlatılır.
 
