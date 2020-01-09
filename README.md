@@ -1,16 +1,15 @@
 # İngilizce Kelime Öğrenme Programı / English Word Learning Program
 
-## İçerikler / Contents
 ### [Türkçe Tanıtım](#Türkçe-Tanıtım)
  * [Program Amacı ve Tanıtımı](#Program-Amacı-ve-Tanıtımı)
  * [Program Kullanımı](#Program-Kullanımı)
 ### [English Promotion](#English-Promotion)
  * [Objectives and Introduction of the Program](#Objectives-and-Introduction-of-the-Program)
  * [Program Usage](#Program-Usage)
-### [Kullanılan Teknolojiler / Used Technologies](#Teknoloji)
+### [Kullanılan Teknolojiler / Used Technologies](#kullanılan-teknolojiler--used-technologies-nameteknoloji)
 
 ---
-## Türkçe Tanıtım [](#){name=Türkçe-Tanıtım}
+## Türkçe Tanıtım
 ### Program Amacı ve Tanıtımı
 Proje ingilizce kelime öğrenmek isteyen kullanıcalara yönelik hazırlanmıştır. Kelimelerin ingilizcesini örnekler üzerinden gösterek öğretir. Öğrenilen kelimeleri belirli zaman aralıklarında tekrar sorularak hatırlatılır.
 
@@ -56,7 +55,7 @@ The words in the program are presented to the user in a random way and learned. 
 The program allows the user to check the words on the test screen when the time comes. If the user correctly answers the word, the word is transferred to the next stage. If the user incorrectly answers the word, the word is added to the `Words to Learn`.
 
 ---
-## Kullanılan Teknolojiler / Used Technologies [](#){name=Teknoloji}
+## Kullanılan Teknolojiler / Used Technologies
 * C# 7.0
 * Devexpress v19.1.3
 * msSQL
