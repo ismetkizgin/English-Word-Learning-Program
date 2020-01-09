@@ -1,15 +1,6 @@
 # İngilizce Kelime Öğrenme Programı / English Word Learning Program
-
-
-### Türkçe Tanıtım
-  - [Program Amacı ve Tanıtımı](#Program-Amacı-ve-Tanıtımı)
-  - [Program Kullanımı](#Program-Kullanımı)
-### English Promotion
-  - [Objectives and Introduction of the Program](#Objectives-and-Introduction-of-the-Program)
-  - [Program Usage](#Program-Usage)
-### [Kullanılan Teknolojiler / Used Technologies](#kullanılan-teknolojiler--used-technologies-nameteknoloji)
-
 ---
+
 ## Türkçe Tanıtım
 ### Program Amacı ve Tanıtımı
 Proje ingilizce kelime öğrenmek isteyen kullanıcalara yönelik hazırlanmıştır. Kelimelerin ingilizcesini örnekler üzerinden gösterek öğretir. Öğrenilen kelimeleri belirli zaman aralıklarında tekrar sorularak hatırlatılır.
