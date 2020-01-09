@@ -7,7 +7,7 @@
 ### [English Promotion](#English-Promotion)
  * [Objectives and Introduction of the Program](#Objectives-and-Introduction-of-the-Program)
  * [Program Usage](#Program-Usage)
-### [Kullanılan Teknolojiler / Used Technologies](#Kullanılan-Teknolojiler)
+### [Kullanılan Teknolojiler / Used Technologies](#Kullanılan-Teknolojiler-/-Used-Technologies)
 
 ---
 ## Türkçe Tanıtım
