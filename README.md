@@ -1,11 +1,12 @@
 # İngilizce Kelime Öğrenme Programı / English Word Learning Program
 
-### [Türkçe Tanıtım](#Türkçe-Tanıtım)
- * [Program Amacı ve Tanıtımı](#Program-Amacı-ve-Tanıtımı)
- * [Program Kullanımı](#Program-Kullanımı)
-### [English Promotion](#English-Promotion)
- * [Objectives and Introduction of the Program](#Objectives-and-Introduction-of-the-Program)
- * [Program Usage](#Program-Usage)
+## İçindekiler / Contents
+### Türkçe Tanıtım
+  - [Program Amacı ve Tanıtımı](#Program-Amacı-ve-Tanıtımı)
+  - [Program Kullanımı](#Program-Kullanımı)
+### English Promotion
+  - [Objectives and Introduction of the Program](#Objectives-and-Introduction-of-the-Program)
+  - [Program Usage](#Program-Usage)
 ### [Kullanılan Teknolojiler / Used Technologies](#kullanılan-teknolojiler--used-technologies-nameteknoloji)
 
 ---
